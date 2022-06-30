@@ -12,4 +12,4 @@
 
 **Step 1:** Download "TournamentTracker.ipynb" from the repository.
 
-**Step 3:** Open the TournamentTracker.ipynb to start to use the tracker!
+**Step 2:** Open the TournamentTracker.ipynb to start to use the tracker!
